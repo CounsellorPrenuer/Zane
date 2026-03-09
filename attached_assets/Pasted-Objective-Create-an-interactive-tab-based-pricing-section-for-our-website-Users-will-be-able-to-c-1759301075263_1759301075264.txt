@@ -1,0 +1,212 @@
+Objective:
+Create an interactive, tab-based pricing section for our website. Users will be able to click on one of four categories (e.g., "8-9 STUDENTS") to see two relevant pricing packages ("Standard" and "Premium").
+
+Part 1: The Category Selector (Tabs)
+Create a set of four clickable tabs at the top of the section. When a tab is clicked, it becomes highlighted, and the content below changes accordingly.
+
+Tab 1: 8-9 STUDENTS
+
+Tab 2: 10-12 STUDENTS
+
+Tab 3: COLLEGE GRADUATES
+
+Tab 4: WORKING PROFESSIONALS
+
+Part 2: The Dynamic Content Area
+This area will display two pricing cards that change based on the selected tab. For the features list, please note which items are included (indicated by a checkmark ✔) and which are excluded (indicated by a cross mark ❌).
+
+Content for "8-9 STUDENTS" Tab
+Package 1: STANDARD
+
+Plan Name: Discover
+
+Price: ₹ 5,500
+
+Features:
+
+(✔) Psychometric assessment to measure your interests
+
+(✔) 1 career counselling session with Mentoria's expert career coaches
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Invites to live webinars by industry experts
+
+(❌) Customized reports after each session with education pathways
+
+(❌) Guidance on studying abroad
+
+(❌) CV building during internship/graduation
+
+Button Text: BUY NOW
+
+Package 2: PREMIUM
+
+Plan Name: Discover plus+
+
+Price: ₹ 15,000
+
+Features:
+
+(✔) Psychometric assessments to measure your interests, personality and abilities
+
+(✔) 8 career counselling sessions (1 every year) with Mentoria's expert career coaches until graduation
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Invites to live webinars by industry experts
+
+(✔) Customized reports after each session with education pathways
+
+(✔) Guidance on studying abroad
+
+(✔) CV building during internship/graduation
+
+Button Text: BUY NOW
+
+Content for "10-12 STUDENTS" Tab
+Package 1: STANDARD
+
+Plan Name: Achieve Online
+
+Price: ₹ 5,999
+
+Features:
+
+(✔) Psychometric assessment to measure your interests, personality and abilities
+
+(✔) 1 career counselling session
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Pre-recorded webinars by industry experts
+
+(❌) Customized reports after each session with education pathways
+
+(❌) Guidance on studying abroad
+
+(❌) CV reviews during internship/graduation
+
+Button Text: BUY NOW
+
+Package 2: PREMIUM
+
+Plan Name: Achieve Plus+
+
+Price: ₹ 10,599
+
+Features:
+
+(✔) Psychometric assessment to measure your interests, personality and abilities
+
+(✔) 4 career counselling sessions
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Attend live webinars by industry experts
+
+(✔) Customized reports after each session with education pathways
+
+(✔) Guidance on studying abroad
+
+(✔) CV reviews during internship/graduation
+
+Button Text: BUY NOW
+
+Content for "COLLEGE GRADUATES" Tab
+Package 1: STANDARD
+
+Plan Name: Ascend Online
+
+Price: ₹ 6,499
+
+Features:
+
+(✔) Psychometric assessment to measure your interests, personality and abilities
+
+(✔) 1 career counselling session
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Pre-recorded webinars by industry experts
+
+(❌) Customized reports after each session with information on certificate/online courses
+
+(❌) Guidance on studying abroad
+
+(❌) CV reviews for job application
+
+Button Text: BUY NOW
+
+Package 2: PREMIUM
+
+Plan Name: Ascend Plus+
+
+Price: ₹ 10,599
+
+Features:
+
+(✔) Psychometric assessment to measure your interests, personality and abilities
+
+(✔) 3 career counselling sessions
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Attend live webinars by industry experts
+
+(✔) Customized reports after each session with information on certificate/online courses
+
+(✔) Guidance on studying abroad
+
+(✔) CV reviews for job application
+
+Button Text: BUY NOW
+
+Content for "WORKING PROFESSIONALS" Tab
+Package 1: STANDARD
+
+Plan Name: Ascend Online
+
+Price: ₹ 6,499
+
+Features:
+
+(✔) Psychometric assessment to measure your interests, personality and abilities
+
+(✔) 1 career counselling session
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Pre-recorded webinars by industry experts
+
+(❌) Customized reports after each session with information on certificate/online courses
+
+(❌) Guidance on studying abroad
+
+(❌) CV reviews for job application
+
+Button Text: BUY NOW
+
+Package 2: PREMIUM
+
+Plan Name: Ascend Plus+
+
+Price: ₹ 10,599
+
+Features:
+
+(✔) Psychometric assessment to measure your interests, personality and abilities
+
+(✔) 2 career counselling sessions
+
+(✔) Lifetime access to Knowledge Gateway
+
+(✔) Attend live webinars by industry experts
+
+(✔) Customized reports after each session with information on certificate/online courses
+
+(✔) Guidance on studying abroad
+
+(✔) CV reviews for job application
+
+Button Text: BUY NOW

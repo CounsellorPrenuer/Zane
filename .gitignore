@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+.env
+sanity-studio/node_modules
+sanity-studio/dist
+.replit
+replit.nix
+*.log

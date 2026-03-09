@@ -1,0 +1,59 @@
+Build a professional portfolio and business website for **Academy for Skill and Knowledge (ASK)**, founded by **Zane E. Cuxton**.
+
+Provide a modern, mobile-friendly, fast-loading design with clear navigation. It should look sleek and professional, with a touch of inspiration to appeal to students, parents, and professionals seeking career guidance.
+
+### Website Requirements:
+- **Landing Section (Home)**
+  - Hero banner with tagline: *"Unlock Your Potential with ASK – Your Partner in Career Guidance & Knowledge."*
+  - Call-to-Action buttons: "Book a Session" and "Explore Services"
+
+- **About Section**
+  - Founder: Zane E. Cuxton (include name, vision, short intro about supporting students/professionals with career guidance, admissions, and lifelong learning).
+  - Embed LinkedIn profile link: [https://www.linkedin.com/in/zane-cuxton-b105bb7](https://www.linkedin.com/in/zane-cuxton-b105bb7)
+
+- **Services Section**
+  Clearly show the services offered:
+  1. Career Guidance
+  2. Workshops & Seminars
+  3. Admission Guidance
+  4. All-in-One Holistic Learning Support
+
+- **Workshops / Seminars Section**
+  - Highlight interactive, skill-based learning programs.
+  - Mention customized workshops for schools, colleges, and corporates.
+
+- **Admissions Guidance Section**
+  - Show expertise in helping students choose the right courses/universities.
+  - Create a "Book Consultation" button.
+
+- **Social Media Integration**
+  - Add links/icons for **LinkedIn, Instagram, X (Twitter)**
+
+- **Contact Section**
+  - Contact: Zane E. Cuxton
+  - Phone: 9844324100
+  - Email: zanecuxton@gmail.com
+  - Location: India (general, not specific address required)
+  - Simple contact form with Name, Email, Phone, and Message.
+  - CTA button: "Book My Free Call"
+
+- **Trust & Highlights Section**
+  - Mention: “Trusted Career Partner for Students & Professionals”
+  - Highlight collaboration with **Mentoria** for enhanced learning.
+  - Space for success stories / testimonials.
+
+### Style & Design:
+- Colors: Professional blue, white, and accents of orange or green (education + growth theme).
+- Fonts: Clean, modern sans-serif.
+- Layout: Section-based scrolling (single-page style with smooth scrolling).
+- Must be responsive for mobile/tablet/desktop.
+- Subtle animations for section transitions.
+
+### Technical Notes:
+- Use HTML, CSS, and JavaScript.
+- Ensure easy customization for future updates.
+- Optimized for SEO (use keywords: career guidance, admissions, workshops, skill development).
+- SSL-ready, fast-loading, and user-friendly.
+
+Final output: Provide all code files (index.html, style.css, script.js). 
+Include placeholders for images (like a banner, workshops, classroom, and career growth visuals).

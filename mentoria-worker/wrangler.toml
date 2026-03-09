@@ -1,0 +1,10 @@
+name = "mentoria-payment-worker"
+main = "index.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# These will be superseded by secrets in production
+# RAZORPAY_KEY_ID = "..."
+# RAZORPAY_KEY_SECRET = "..."
+# DATABASE_URL = "..."
